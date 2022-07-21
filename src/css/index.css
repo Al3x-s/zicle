@@ -26,7 +26,7 @@
 	background: linear-gradient(-45deg, #380036, #D387AB, #06ffff);
 	animation: gradient 12s ease infinite;
     background-size: 200% 200%;
-	height: 200vh;
+	height: 250vh;
 }
 
 @keyframes gradient {
@@ -97,4 +97,14 @@
 }
 .card__content{
     width: 75%;
+}
+.icon__container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.icon__words{
+    font-size: 2rem;
+
 }

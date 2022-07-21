@@ -47,6 +47,18 @@ export default class Index extends Component {
                     <div className='card__content'> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam cumque non dicta hic autem, mollitia vero molestiae quo accusantium! Laborum corporis doloremque sit nostrum harum eius odit excepturi? Eveniet, tempora.</div>
                 </div>
             </div>
+            <div className='card__container tight__card'>
+            <div className='right__header card__header__side'>Alternative</div>
+                <div className='right__content card__content__side'>
+                    <div className='card__content__header'>Take a break from powders and bars</div>
+                    <div className='card__content'> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam cumque non dicta hic autem, mollitia vero molestiae quo accusantium! Laborum corporis doloremque sit nostrum harum eius odit excepturi? Eveniet, tempora.</div>
+                </div>
+            </div>
+            <div className='icon__container'>
+                <div className='icon__words'>Recovery</div>
+                <div className='icon__words'>Pump</div>
+                <div className='icon__words'>Hydration</div>
+            </div>
         </div>
       </div>
 
